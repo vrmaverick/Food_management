@@ -34,7 +34,7 @@ include('includes/dbconnection.php');
 <!---- start-smoth-scrolling---->
 </head>
 <body>
-<!-- <?php include_once("includes/head.php");?> -->
+<?php include_once("includes/head.php");?>
 <!-- banner -->
 <!-- <div class="banner page-head">	 -->
 <!-- </div> -->
